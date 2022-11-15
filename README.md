@@ -18,21 +18,21 @@
 Чтобы построить инвертированный список для данной коллекции документов, необходимо:
 1.	Составить таблицу последовательности терминов в каждом документе в сопровождении соответствующих идентификаторов документов;
     <div align="left">
-        <img src="https://github.com/stud-programmist/-/blob/main/image/1.png" width= "250"/>
+        <img src="https://github.com/stud-programmist/Inverted_Index/blob/main/image/1.png" width= "250"/>
     </div>
 
 2.	Отсортировать данную таблицу по алфавиту (по возрастанию от «а» до «я»);
     <div align="left">
-        <img src="https://github.com/stud-programmist/-/blob/main/image/2.png" width= "250"/>
+        <img src="https://github.com/stud-programmist/Inverted_Index/blob/main/image/2.png" width= "250"/>
     </div>
 
 3.	Сгруппировать одинаковые термины по слову;
     <div align="left">
-        <img src="https://github.com/stud-programmist/-/blob/main/image/3.png" width= "250"/>
+        <img src="https://github.com/stud-programmist/Inverted_Index/blob/main/image/3.png" width= "250"/>
     </div>
 
 
 4.	Упорядочить идентификаторы документов.
     <div align="left">
-        <img src="https://github.com/stud-programmist/-/blob/main/image/4.png" width= "250"/>
+        <img src="https://github.com/stud-programmist/Inverted_Index/blob/main/image/4.png" width= "250"/>
     </div>
